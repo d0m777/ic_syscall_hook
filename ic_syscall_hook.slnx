@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ic_syscall_hook/ic_syscall_hook.vcxproj" />
+</Solution>
